@@ -1,0 +1,15 @@
+{
+  "name": "structured-data-tester",
+  "version": "1.0.0",
+  "description": "Crawler for read metadata,json-ld, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agung Nurimam",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.5.1",
+    "structured-data-testing-tool": "^4.5.0"
+  }
+}
